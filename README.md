@@ -38,6 +38,8 @@ A aplicação inicia com o <strong>menu</strong> ao realizar o comando:
   
   3. levante o banco de dados em mongoDB com `docker-compose up -d mongodb`
 
-  4. rode o comando para iniciar a aplicação: `tech-news-analyzer`
+  4. rode o comando para iniciar a aplicação: `tech-news-analyzer`.
+
+  5. feche o docker com o `docker-compose down`
 
 
